@@ -28,7 +28,7 @@ async function fetchData(urlAPI) {
           </div>
           <div class="mt-4 flex justify-between">
             <h3 class="text-sm text-gray-700">
-              <span aria-hidden="true" class="absolute inset-0"></span>
+              <a href="" aria-hidden="true" class="absolute inset-0"></a>
               ${video.snippet.title}
             </h3>
           </div>
